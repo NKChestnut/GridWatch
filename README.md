@@ -3,11 +3,16 @@
 **GridWatch** is a machine learning-basedFastAPI app that predicts potential power grid instability based on real solar irradiance and energy load data. This end-to-end project was designed to demonstrate practical MLOps, climate-tech modeling, and containerized deployment.
 
 > 🔗 Docker Hub: [nkchestnut/gridwatch-app](https://hub.docker.com/r/nkchestnut/gridwatch-app)
+>
 > Links to datasets used to create the merged data:
+>
 > California ISO Hourly Load Data for 2022, 2023, & 2024
->   https://www.caiso.com/library/historical-ems-hourly-load
-> National Solar Radiation Database for Sanfrancisco, California
->   https://nsrdb.nrel.gov/data-viewer
+>
+>  https://www.caiso.com/library/historical-ems-hourly-load
+>
+>  National Solar Radiation Database for Sanfrancisco, California
+>
+> https://nsrdb.nrel.gov/data-viewer
 
 ---
 
