@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ How to Run Locally with Docker
+##  How to Run Locally with Docker
 
 Make sure you have [Docker installed](https://docs.docker.com/get-docker/).
 
