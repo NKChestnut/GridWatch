@@ -70,5 +70,7 @@ NREL + CAISO datasets
 ## Motivation
 Following NOAA funding cuts, local grid resilience is more important than ever. This project shows how publicly available energy and weather data can power predictive tools to help cities and communities anticipate strain on infrastructure — all while demonstrating full-stack ML deployment.
 
-## License
-MIT License – free to use, remix, and adapt.
+## Citation
+Sengupta, M., Habte, A., Xie, Y., Lopez, A., & Buster, G. (2018). National Solar Radiation Database (NSRDB). [Data set]. Open Energy Data Initiative (OEDI). National Renewable Energy Laboratory. https://doi.org/10.25984/1810289
+
+California Independent System Operator (CAISO). 2017. California ISO—Historical hourly load data from EMS. 2022-2024. California ISO—Historical hourly load data from EMS.https://www.caiso.com/library/historical-ems-hourly-load
